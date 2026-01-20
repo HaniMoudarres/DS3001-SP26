@@ -4,7 +4,7 @@ This repository contains homework assignments for DS3001, Spring 2026.
 
 ## Files
 
-- `ProgrammingReview.py` – Solutions for HW 1 Question 2
+- `assignment_programming.ipynb` – Solutions for HW 1 Question 2
 - `README.md` – This file
 
 ## How to run
